@@ -1,0 +1,22 @@
+ nav li {
+    display: inline-block;
+    padding-left: 20px;
+    width: 25%;
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+    color: yellow
+  }
+
+  ul {
+    /* padding-left: 0px; */
+    display: flex;
+    align-items: center;
+  }
+
+  .list-group-item-dark {
+    text-align: center;
+  }
+
+  #navbarNav {
+      background-color: black;
+  }
